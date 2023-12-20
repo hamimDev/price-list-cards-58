@@ -1,0 +1,63 @@
+[
+    {
+      "id": "P123456",
+      "price": 50,
+      "name": "Wireless Noise-Canceling Headphones",
+      "image": "https://d1b5h9psu9yexj.cloudfront.net/57440/Anker-s-Soundcore-Space-One_20230829-151132_full.jpeg"
+    },
+    {
+      "id": "P789012",
+      "price": 130,
+      "name": "Smartphone with Dual Camera",
+      "image": "https://static.toiimg.com/thumb/msid-91887058,width-400,resizemode-4/91887058.jpg"
+    },
+    {
+      "id": "P345678",
+      "price": 80,
+      "name": "Stainless Steel Coffee Maker",
+      "image": "https://m.media-amazon.com/images/I/41Stb+MhLgL.jpg"
+    },
+    {
+      "id": "P678901",
+      "price": 25,
+      "name": "Portable Bluetooth Speaker",
+      "image": "https://static-01.daraz.com.bd/p/33607a6e8f9052b9636e9d385dd510ae.jpg_750x750.jpg_.webp"
+    },
+    {
+      "id": "P234567",
+      "price": 35,
+      "name": "Wireless Mouse",
+      "image": "https://static-01.daraz.com.bd/p/42957c3ca46354850d3e43c55e1b02ac.jpg_750x750.jpg_.webp"
+    },
+    {
+      "id": "P890123",
+      "price": 150,
+      "name": "4K UHD Smart TV",
+      "image": "https://www.startech.com.bd/image/cache/catalog/television/lg-tv/86uq9000/86uq9000-01-500x500.webp"
+    },
+    {
+      "id": "P456789",
+      "price": 18,
+      "name": "Stylish Desk Lamp",
+      "image": "https://i.pinimg.com/736x/98/ce/97/98ce97108c3d0f741950a8f8d485116c.jpg"
+    },
+    {
+      "id": "P012345",
+      "price": 70,
+      "name": "High-Capacity Power Bank",
+      "image": "https://m.media-amazon.com/images/I/31Fg9CYMh-L.jpg"
+    },
+    {
+      "id": "P567890",
+      "price": 42,
+      "name": "Digital Camera with Zoom",
+      "image": "https://static-01.daraz.com.bd/p/217d2fdc683f3238679ae7b0a5f97286.jpg_750x750.jpg_.webp"
+    },
+    {
+      "id": "P123789",
+      "price": 55,
+      "name": "Electric Kettle",
+      "image": "https://images.othoba.com/images/thumbs/0550383_jadroo-electric-kettle-jek-21s-2-litre-black.jpeg"
+    }
+]
+  
